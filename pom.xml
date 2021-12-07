@@ -5,12 +5,12 @@
     <packaging>pom</packaging>
     <version>1</version>
     <modules>
-        <module>Day 1</module>
+        <module>Day 1 part 1</module>
         <module>Day 1 part 2</module>
         <module>Day 2 part 1</module>
         <module>Day 2 part 2</module>
         <module>Day 3 part 1</module>
-        <module>Day 3 part 2</module>
+<!--        <module>Day 3 part 2</module>-->
     </modules>
     <name>Advent of code 2021</name>
 
