@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>d3p2</artifactId>
-    <name>Day 3 Part 2</name>
+    <artifactId>d6p2</artifactId>
+    <name>Day 6 Part 2</name>
 
 </project>
