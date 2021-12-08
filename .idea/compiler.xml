@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="d6p2" />
+        <module name="d6p1" />
+        <module name="d4p1" />
+        <module name="d2p1" />
+        <module name="d3p1" />
+        <module name="d5p1" />
+        <module name="d5p2" />
+        <module name="d3p2" />
+        <module name="d1p2" />
+        <module name="d1p1" />
+        <module name="d2p2" />
+        <module name="d4p2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AdventOfCode_2021" target="11" />
+      <module name="d1p1" target="11" />
+      <module name="d1p2" target="11" />
+      <module name="d2p1" target="11" />
+      <module name="d2p2" target="11" />
+      <module name="d3p1" target="11" />
+      <module name="d3p2" target="11" />
+      <module name="d4p1" target="11" />
+      <module name="d4p2" target="11" />
+      <module name="d5p1" target="11" />
+      <module name="d5p2" target="11" />
+      <module name="d6p1" target="11" />
+      <module name="d6p2" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

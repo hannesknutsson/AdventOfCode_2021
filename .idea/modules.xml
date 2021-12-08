@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AdventOfCode_2021.iml" filepath="$PROJECT_DIR$/.idea/AdventOfCode_2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1 Part 1/d1p1.iml" filepath="$PROJECT_DIR$/Day 1 Part 1/d1p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1 Part 2/d1p2.iml" filepath="$PROJECT_DIR$/Day 1 Part 2/d1p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2 Part 1/d2p1.iml" filepath="$PROJECT_DIR$/Day 2 Part 1/d2p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2 Part 2/d2p2.iml" filepath="$PROJECT_DIR$/Day 2 Part 2/d2p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3 Part 1/d3p1.iml" filepath="$PROJECT_DIR$/Day 3 Part 1/d3p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3 Part 2/d3p2.iml" filepath="$PROJECT_DIR$/Day 3 Part 2/d3p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4 Part 1/d4p1.iml" filepath="$PROJECT_DIR$/Day 4 Part 1/d4p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4 Part 2/d4p2.iml" filepath="$PROJECT_DIR$/Day 4 Part 2/d4p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5 Part 1/d5p1.iml" filepath="$PROJECT_DIR$/Day 5 Part 1/d5p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5 Part 2/d5p2.iml" filepath="$PROJECT_DIR$/Day 5 Part 2/d5p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 6 Part 1/d6p1.iml" filepath="$PROJECT_DIR$/Day 6 Part 1/d6p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 6 Part 2/d6p2.iml" filepath="$PROJECT_DIR$/Day 6 Part 2/d6p2.iml" />
+    </modules>
+  </component>
+</project>
